@@ -1,0 +1,12 @@
+D:\define\code\MCA\TesterClient\bin\Debug\TesterClient.exe
+D:\define\code\MCA\TesterClient\bin\Debug\TesterClient.pdb
+D:\define\code\MCA\TesterClient\bin\Debug\mscorlib.dll
+D:\define\code\MCA\TesterClient\bin\Debug\ru\mscorlib.resources.dll
+D:\define\code\MCA\TesterClient\bin\Debug\normidna.nlp
+D:\define\code\MCA\TesterClient\bin\Debug\normnfc.nlp
+D:\define\code\MCA\TesterClient\bin\Debug\normnfd.nlp
+D:\define\code\MCA\TesterClient\bin\Debug\normnfkc.nlp
+D:\define\code\MCA\TesterClient\bin\Debug\normnfkd.nlp
+D:\define\code\MCA\TesterClient\obj\Debug\TesterClient.csprojResolveAssemblyReference.cache
+D:\define\code\MCA\TesterClient\obj\Debug\TesterClient.exe
+D:\define\code\MCA\TesterClient\obj\Debug\TesterClient.pdb
